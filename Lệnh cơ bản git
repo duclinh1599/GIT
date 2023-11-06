@@ -3,7 +3,7 @@ Lệnh cơ bản:
   git --version: Hiển thị thông tin phiên bản.
   git status: Hiển thị trạng thái của.
   git log: Hiển thị lịch sử các commit
-  git init [repo name]: tạo ra một kho lưu trữ mới.
+  git init [repo name]: tạo ra một kho lưu trữ(thư mục) mới.
   git clone [repo name][clone name]: tạo một bản sao liên kết với repo.
   git config -l [scope] [option_name]: xem cấu hình hiện tại
       scope: --system: liên quan tất cả người dùng.
