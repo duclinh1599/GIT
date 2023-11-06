@@ -9,3 +9,5 @@ Lệnh cơ bản:
       scope: --system: liên quan tất cả người dùng.
              --global: liên quan đến repos.
              --Local: liên quan đến 1 repo hiện tại.
+Trạng thái của Git:
+  
