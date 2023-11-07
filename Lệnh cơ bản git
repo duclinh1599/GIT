@@ -1,3 +1,4 @@
+
 - Lệnh cơ bản:
   git --help: Trợ giúp, hướng dẫn lệnh.
   git --version: Hiển thị thông tin phiên bản.
@@ -5,8 +6,8 @@
   git log: Hiển thị lịch sử các commit
   git init [repo name]: tạo ra một kho lưu trữ(thư mục) mới.
   git clone [repo name][clone name]: tạo một bản sao liên kết với repo.
-  git config -l [scope] [option_name]: xem cấu hình hiện tại
       scope: --system: liên quan tất cả người dùng.
+  git config -l [scope] [option_name]: xem cấu hình hiện tại
              --global: liên quan đến repos.
              --Local: liên quan đến 1 repo hiện tại.
 - Trạng thái của Git:
@@ -27,3 +28,7 @@
       Lấy dữ liệu từ central về local repo.
   git push: 
       Đẩy các commit từ local về central.
+- Git nâng cao:
+  git checkout [id]: chuyển đến một commit bất kì trong repo.
+  git brach [branch name] : tạo ra các nhánh không ảnh hưởng tới nhánh chính.
+  git branch -l: xem nhánh hiện tại.
