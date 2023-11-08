@@ -1,4 +1,4 @@
-## Cách clone trên github về
+## Cách clone trên github về local 
 - Khai báo thông tin user_name với email:
     
         #git config -global user.name 'duclinh1599' (lưu ý name là tên trên github)
