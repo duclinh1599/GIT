@@ -1,4 +1,4 @@
-
+# https://www.youtube.com/watch?v=QE_mkDiu4hE ( video dùng để ôn tập nhanh về git)
 # Lệnh cơ bản:
 
    + git --help: Trợ giúp, hướng dẫn lệnh.
